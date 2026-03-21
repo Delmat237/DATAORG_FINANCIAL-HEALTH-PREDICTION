@@ -153,9 +153,9 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ## Contact
 
-- Organisateur : [Votre nom]
-- Email : [votre.email@example.com]
-- Date de la session : [Date de votre session ML]
+- Organisateur : Bala Andegue Francois Lionnel
+- Email : balaandeguefrancoislionnel@gmail.com
+- Date de la session : 21 mars 2026
 
 ## Remerciements
 
