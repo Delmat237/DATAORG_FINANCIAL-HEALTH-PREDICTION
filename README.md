@@ -29,8 +29,8 @@ Le projet inclut :
 
 1. Clonez ce repository :
    ```bash
-   git clone [URL de votre repository]
-   cd dataorg-financial-health-prediction-challenge
+   git clone https://github.com/BalaAndegue/DATAORG_FINANCIAL-HEALTH-PREDICTION.git
+   cd DATAORG_FINANCIAL-HEALTH-PREDICTION-challenge
    ```
 
 2. Installez les dépendances :
