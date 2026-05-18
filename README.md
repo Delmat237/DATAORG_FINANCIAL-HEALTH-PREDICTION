@@ -153,8 +153,8 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ## Contact
 
-- Organisateur : Bala Andegue Francois Lionnel
-- Email : balaandeguefrancoislionnel@gmail.com
+- Organisateur : AZANGUE LEOENL DELMAT
+- Email : azangueleonel9@gmail.com
 - Date de la session : 21 mars 2026
 
 ## Remerciements
